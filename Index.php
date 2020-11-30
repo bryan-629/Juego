@@ -12,8 +12,6 @@
         <div id="juego">
 
         </div>
-        
-
         <script src="js/teclado.js"></script>
         <script src="js/buclePrincipal.js"></script> <!--fps-->
         <script src="js/rectangulo.js"></script>
