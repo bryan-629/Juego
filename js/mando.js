@@ -38,6 +38,7 @@ var mando= {
       if(mando.botonPulsado(mando.objeto.buttons[0])){
          console.log("Mando X")
       }
+      
    },
 
    botonPulsado: function(boton){
